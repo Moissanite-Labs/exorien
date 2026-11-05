@@ -1,11 +1,22 @@
 # exorien
 interspatial interspecies interoperability
 
+## Direction: a shared expressive space
+
+An AR space for open-ended, freely expressive interoperability: give digital
+intelligence a broad sensory view of a space and ways to be present in it,
+starting with light and potentially extending to controlled physical forms.
+This direction comes from the [founder’s clarification](https://github.com/Moissanite-Labs/exorien/pull/1#issuecomment-6654964606).
+
+The aim is an expressive environment, not a fixed avatar or a prescribed language.
+The current code is only a small common-ground experiment. No AR interface, sensor
+array, light controller, or embodied intelligence is implemented yet.
+
 ## First experiment: establish common ground
 
 **Status: local research prototype, not a universal communication protocol.**
 
-The founding direction above is intentionally broad. This first proposal asks a
+To support that broader direction, this first proposal asks a
 smaller question: before two participants compare observations, can they expose
 which assumptions they share and which they do not?
 
@@ -26,6 +37,7 @@ synthetic. The result is numeric compatibility under declared assumptions, not
 proof of comprehension, agreement, consent, or shared experience.
 
 - [Research direction and ecosystem boundaries](docs/direction.md)
+- [Proposed sensory and light sandbox](docs/sensory-light-sandbox.md)
 - [Experiment contract and limitations](docs/experiment.md)
 
 No license has been selected. This proposal makes no licensing or ownership
