@@ -1,0 +1,28 @@
+{
+  "version": "0.1",
+  "tolerance": "0.01",
+  "observations": [
+    {
+      "observer": "person-adapter",
+      "evidence": "synthetic:reading-1",
+      "vocabulary": "exorien-demo-v1",
+      "quantity": "temperature",
+      "referent": "synthetic:water-sample-1",
+      "frame": "synthetic:lab-1",
+      "window": "synthetic:sample-window-1",
+      "unit": "C",
+      "value": "20"
+    },
+    {
+      "observer": "sensor-adapter",
+      "evidence": "synthetic:reading-2",
+      "vocabulary": "exorien-demo-v1",
+      "quantity": "temperature",
+      "referent": "synthetic:water-sample-1",
+      "frame": "synthetic:unknown-lab",
+      "window": "synthetic:sample-window-1",
+      "unit": "K",
+      "value": "293.15"
+    }
+  ]
+}
